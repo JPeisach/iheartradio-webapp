@@ -1,6 +1,8 @@
 # iheartradio-webapp
 Electron Webapp for iHeartRadio
 
+> NOTE: Archiving this, as I don't like NPM and JS, and I don't think there is much use for this. There are other software that can stream iHeartRadio with less overhead. If you like this project, feel free to fork!
+
 ![Preview Image](.github/images/main.png)
 
 [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/iheartradio)
